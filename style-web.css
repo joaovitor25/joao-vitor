@@ -9,7 +9,8 @@ ul{
 	list-style-type: none;
 	padding: 16px;
 }
-a{
+a{	
+	text-decoration: none;
 	color: black;
 }
 header img{
